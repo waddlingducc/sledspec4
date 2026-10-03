@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "bfa2ce508680456f072db7be3691abd9257e0c3f67c6729d0b736b9bb313f36e",
+  "algorithm": "sha256",
+  "idBasis": "sorted [relative path, SHA256 of file bytes with sledspec-release meta removed from HTML]; release.json excluded",
+  "siteUrl": "https://sledspec.com",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "bytes": 3853,
+      "sha256": "93c1ad96e16f3cdcdcb1d485c63899ed4416c4e6da4cc5f9255511d92eccdcd4",
+      "route": "/404.html",
+      "status": 404
+    },
+    {
+      "path": "CNAME",
+      "bytes": 13,
+      "sha256": "46b481445b035d22060b2726485038e9503e22217c92fec7c2a51893bd0a65c6"
+    },
+    {
+      "path": "about/index.html",
+      "bytes": 10571,
+      "sha256": "df9fba62b216be8ca54a8342136ba5dc40b48c395a638fa67f4ad8087f0d101c",
+      "route": "/about/",
+      "status": 200
+    },
+    {
+      "path": "ads.txt",
+      "bytes": 59,
+      "sha256": "0661bec96b6d28d2c0827100c06269b099117e0babe60685a3f0af56c7545b98"
+    },
+    {
+      "path": "assets/index-BsfTO0n9.css",
+      "bytes": 30381,
+      "sha256": "6d4d5cffa6113b8ca9aef27aeba784871d4903a5d35dcac93ea666d627bbebe9"
+    },
+    {
+      "path": "assets/index-DqDWh7XJ.js",
+      "bytes": 392304,
+      "sha256": "394252e8735cc721598e767f51dc374ede138e5876c3806c1114b6b70ceb267f"
+    },
+    {
+      "path": "assets/norm_id01-DdOcIWO0.jpg",
+      "bytes": 56912,
+      "sha256": "473bdee245324f1e015202a48cd3b3ff99d83d9367a3fbd245498b5de5d77154"
+    },
+    {
+      "path": "assets/norm_id02-DcDlE2Bh.jpg",
+      "bytes": 64064,
+      "sha256": "dcab088c5a2c064e529eec1c0b3fbf0b6c0ff90ae7fbfca0438faaed3a8becff"
+    },
+    {
+      "path": "assets/norm_id03-LzTH5xBz.jpg",
+      "bytes": 74071,
+      "sha256": "eac24ec43f988ad8beb2ce96147a5333741e6f059d9daa7adf474ed7c2d9ce08"
+    },
+    {
+      "path": "assets/norm_id04-D-p-uibZ.jpg",
+      "bytes": 60814,
+      "sha256": "256e8974c6981a33e1e9ec07a5843ca76690c33dfd130b7ffe7f74cc0ae2c3cd"
+    },
+    {
+      "path": "assets/norm_id05-Bcq7Hi87.jpg",
+      "bytes": 73370,
+      "sha256": "b063b417ef1848c9bc46693025fed759f3a857ef0a677f52b8c3784c79fc6452"
+    },
+    {
+      "path": "assets/norm_id06-BZ6UurGe.jpg",
+      "bytes": 67903,
+      "sha256": "794499a976872efb4673c2c70b923cb6da4e9a31cf8669bc9aeda2be05bfb809"
+    },
+    {
+      "path": "assets/norm_id07-C0pyxg43.jpg",
+      "bytes": 78973,
+      "sha256": "9218a2054459f82ec167d4ede33fb999cfe9ec006beeb0687beaacd145d5bf36"
+    },
+    {
+      "path": "assets/norm_id08-B8cZoEx6.jpg",
+      "bytes": 80833,
+      "sha256": "7a5d9184144dd83f66cc0c654bfb04d204b1d6378a48caa8275a142482a0887d"
+    },
+    {
+      "path": "assets/norm_id09-CtUyLuU1.jpg",
+      "bytes": 77389,
+      "sha256": "0fc5bc17cc686c7da6f1e7b5b78113cb8182c5784d36154bcc40f91e369280e5"
+    },
+    {
+      "path": "assets/norm_id10-DP000FS4.jpg",
+      "bytes": 75424,
+      "sha256": "cb5ec4f75b190edb5b646484f4759c6f89f34e65deb4cc41ee3b4ad3c5ea738c"
+    },
+    {
+      "path": "assets/norm_id11-BFc9uOvv.jpg",
+      "bytes": 84056,
+      "sha256": "57de91964407eb0009ab05c14ecec92da9ebf74a64c1bf02c99af7e1052bc8c7"
+    },
+    {
+      "path": "assets/norm_id12-CtL-uQPA.jpg",
+      "bytes": 80406,
+      "sha256": "b0b834130ab71f43a0de2cac0fc9a5d73ca6de6f092f883fdee493d741c94e2c"
+    },
+    {
+      "path": "assets/norm_id13-Dc3DGlWA.jpg",
+      "bytes": 51960,
+      "sha256": "d62eb9d70638f0edd2f9aaaa00ee1a7b81bc0171e8969b5865e942c9c95aa29d"
+    },
+    {
+      "path": "assets/norm_id14-DtLOdo5r.jpg",
+      "bytes": 52074,
+      "sha256": "a0d7e80578787f6d46182bc30621a158ded957aa0d2afbb9bdbcfc2a3944c7d4"
+    },
+    {
+      "path": "assets/norm_id15-gg1-yIis.jpg",
+      "bytes": 83013,
+      "sha256": "0442d2a2dfd1910685bc7b74fb0ed31c0548b9bac8f6cc995a1c2b2c98450576"
+    },
+    {
+      "path": "assets/norm_id16-DPVCsOyW.jpg",
+      "bytes": 64225,
+      "sha256": "06966b112e61927f205b565515e23307fba41fa34bc1ced76e74d2ce56d969ab"
+    },
+    {
+      "path": "assets/norm_id17-B3PZPkiM.jpg",
+      "bytes": 64015,
+      "sha256": "3c6c799f48051d646ccfb9792405b194266697375961fb82eff9fc0bf8fa96c5"
+    },
+    {
+      "path": "assets/norm_id18-BOUqHMxi.jpg",
+      "bytes": 74791,
+      "sha256": "d3ee6bcf8fcbfd08439ae0853e8cce8f66cbae07ddc6e7c989802dbafc10e0ac"
+    },
+    {
+      "path": "assets/norm_id19-DPXobXGW.jpg",
+      "bytes": 53410,
+      "sha256": "f6bca4bf9f8f6d357f81e77cb4c90b2eb67d43f3d6119f12500c2876900d0b6e"
+    },
+    {
+      "path": "assets/norm_id20-1O0IZfIC.jpg",
+      "bytes": 53659,
+      "sha256": "f626d16edbdc49762943f07a20983273fde68f7fbae975db0b8c1502732d026e"
+    },
+    {
+      "path": "assets/norm_id21-BNK623IH.jpg",
+      "bytes": 63811,
+      "sha256": "907245e396355dbeccd7183872b5469ee602f13e4d038b2ac51660f16cad5b17"
+    },
+    {
+      "path": "assets/norm_id22-ZEE5XwoD.jpg",
+      "bytes": 89052,
+      "sha256": "3f24b0295f75e85a70c3194bfcf56bcabdd2c12b33c14de6f7be741503c4dfb1"
+    },
+    {
+      "path": "assets/norm_id23-BjlbG5i_.jpg",
+      "bytes": 79733,
+      "sha256": "29f95dd0cfbcd3951887e6877f6fb61ac9358798008b6cf17003cd6b28cf1271"
+    },
+    {
+      "path": "contact/index.html",
+      "bytes": 7280,
+      "sha256": "ccfd3f9beb44dd3f55942f43e4b1e2b51742963e837afe750afba08a3de9abbd",
+      "route": "/contact/",
+      "status": 200
+    },
+    {
+      "path": "faq/index.html",
+      "bytes": 26633,
+      "sha256": "262a7c2e88405e846d3af97a5673942fd7ce36bd3710bbfed1d6c2275c463643",
+      "route": "/faq/",
+      "status": 200
+    },
+    {
+      "path": "favicon-sled.png",
+      "bytes": 17802,
+      "sha256": "9ed2084b584f65c9c00ba7ca9ca4ea8160ad6b7a50090287f6f896dac8071c89"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 1445,
+      "sha256": "191ee1b151b876873c7f4f1e856b0f3e5679a3d7a406b5b504829aa112b78eb5"
+    },
+    {
+      "path": "guides/2-stroke-vs-4-stroke/index.html",
+      "bytes": 18471,
+      "sha256": "d8e9d50c9c4e9d3678af5f9d8926c9ce948ab945d8fcc0e6f46ac86c74dde194",
+      "route": "/guides/2-stroke-vs-4-stroke/",
+      "status": 200
+    },
+    {
+      "path": "guides/best-beginner-snowmobiles/index.html",
+      "bytes": 17041,
+      "sha256": "ed640250ea0441d13b29f9ecc7800d550bb8c49e45e5daff47aea507ff7164eb",
+      "route": "/guides/best-beginner-snowmobiles/",
+      "status": 200
+    },
+    {
+      "path": "guides/how-to-choose/index.html",
+      "bytes": 38181,
+      "sha256": "23566cf6d9237e6ecbab037e24e1333b36c9501de5b7a846907b69470ebc1cdf",
+      "route": "/guides/how-to-choose/",
+      "status": 200
+    },
+    {
+      "path": "guides/index.html",
+      "bytes": 9128,
+      "sha256": "70388a7011dc1cdf2b196f9e543c32c327d2eaf834187c59b3f8cbff82290137",
+      "route": "/guides/",
+      "status": 200
+    },
+    {
+      "path": "guides/reading-specs/index.html",
+      "bytes": 18603,
+      "sha256": "ece4d390c34ad4d7237e807cf03805f15c8078da5b027b5878964fdec802eea3",
+      "route": "/guides/reading-specs/",
+      "status": 200
+    },
+    {
+      "path": "guides/safety-gear/index.html",
+      "bytes": 16253,
+      "sha256": "215ba7fea0fa7cf290dfcddf7e12f9fb1c4b61f0a7b9803293749b6954947f9d",
+      "route": "/guides/safety-gear/",
+      "status": 200
+    },
+    {
+      "path": "guides/snowmobile-maintenance/index.html",
+      "bytes": 20245,
+      "sha256": "4fcf4aaa76db9526627c463bec9f6f64ee884c222e6508ecc1b095a270d4dfc5",
+      "route": "/guides/snowmobile-maintenance/",
+      "status": 200
+    },
+    {
+      "path": "guides/trail-vs-mountain/index.html",
+      "bytes": 16280,
+      "sha256": "6b16a4033e69f4acec7a3fcc88b7b03c2cd5e1a8c8223effb841865abfe9c439",
+      "route": "/guides/trail-vs-mountain/",
+      "status": 200
+    },
+    {
+      "path": "index.html",
+      "bytes": 33352,
+      "sha256": "91366e8941f06328670f00ea4138425e3f106fad04afa9fc17796bfbb640e4ef",
+      "route": "/",
+      "status": 200
+    },
+    {
+      "path": "opengraph.jpg",
+      "bytes": 103337,
+      "sha256": "3364315a4a3b15835ebed1ec065800eeca5af253d47a2d613cfb058012f218a1"
+    },
+    {
+      "path": "privacy/index.html",
+      "bytes": 9822,
+      "sha256": "918b345a398362c62f2aaadef6e8e40dbf7be195a2231115bf994c5bb4075544",
+      "route": "/privacy/",
+      "status": 200
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 65,
+      "sha256": "dca3d77d00402a5f56a366efa81def1ea6d26521a20e33b5b6ba089275e50963"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 2203,
+      "sha256": "21892d87b18a146c170df0ec12ae46aee0ca3a30a35580a454b4ebb51c5e31ea"
+    },
+    {
+      "path": "sled/1/index.html",
+      "bytes": 11442,
+      "sha256": "6a77bc0c1ae6f630ff40855b6c76bd44af04159bb5a82b09f5836eb125084f17",
+      "route": "/sled/1/",
+      "status": 200
+    },
+    {
+      "path": "sled/10/index.html",
+      "bytes": 11615,
+      "sha256": "69dfa3149d8a1a534510867424ff3cd2ecf68db040e3838bdd4341e160918e7c",
+      "route": "/sled/10/",
+      "status": 200
+    },
+    {
+      "path": "sled/11/index.html",
+      "bytes": 11607,
+      "sha256": "f3cf429b3ea932828779616326a5067012a1896bb44cf8d50eb7d97a7d752d0f",
+      "route": "/sled/11/",
+      "status": 200
+    },
+    {
+      "path": "sled/12/index.html",
+      "bytes": 11319,
+      "sha256": "cb46ab9ece314602f1fbf33cf4dd661242a0158b99ac75df48ec4eb1bd9e54e8",
+      "route": "/sled/12/",
+      "status": 200
+    },
+    {
+      "path": "sled/13/index.html",
+      "bytes": 12910,
+      "sha256": "48090129acdae744deeb28f3e41ffef4335325ff9c1f3b6d674fdeee10b38183",
+      "route": "/sled/13/",
+      "status": 200
+    },
+    {
+      "path": "sled/14/index.html",
+      "bytes": 12706,
+      "sha256": "199dfc52f455a373e513ebcc48ebc61c03aed2626253e59fa44449eab0d9f2e7",
+      "route": "/sled/14/",
+      "status": 200
+    },
+    {
+      "path": "sled/15/index.html",
+      "bytes": 12663,
+      "sha256": "3ebeb5073ed4182f81f6cfa994c977e8733fb4baabdabd2aa58aedc90a843ce3",
+      "route": "/sled/15/",
+      "status": 200
+    },
+    {
+      "path": "sled/16/index.html",
+      "bytes": 12665,
+      "sha256": "2be147edd045e8793b120159323321ca1fe69325db7ef99fcca529af984e1996",
+      "route": "/sled/16/",
+      "status": 200
+    },
+    {
+      "path": "sled/17/index.html",
+      "bytes": 12622,
+      "sha256": "7549d4b7e850c6a6d6d3c475a12388e505a3247600487ed0df441d1ebdfb6897",
+      "route": "/sled/17/",
+      "status": 200
+    },
+    {
+      "path": "sled/18/index.html",
+      "bytes": 12841,
+      "sha256": "9fdc53c1127a6657da90888544c89ae00b5b21da592b1a0488aa1f610a6dbcbf",
+      "route": "/sled/18/",
+      "status": 200
+    },
+    {
+      "path": "sled/19/index.html",
+      "bytes": 11494,
+      "sha256": "e28eac0c4f58228203f6718f2879a4f1d7292f988e0f139b3bcb78fcb118fe88",
+      "route": "/sled/19/",
+      "status": 200
+    },
+    {
+      "path": "sled/2/index.html",
+      "bytes": 11445,
+      "sha256": "32769d0325234a3caa587d15cabe15398cc289a084870de63e01ef491051b6ab",
+      "route": "/sled/2/",
+      "status": 200
+    },
+    {
+      "path": "sled/20/index.html",
+      "bytes": 11362,
+      "sha256": "71d04eb7155aebe388866bec03437b0fa881b002f41c856c8113285873daae6c",
+      "route": "/sled/20/",
+      "status": 200
+    },
+    {
+      "path": "sled/21/index.html",
+      "bytes": 11193,
+      "sha256": "f591ece52cd0f62161655f4d49c7b0b12f84ee53a20d8dfd01625650ba882ff8",
+      "route": "/sled/21/",
+      "status": 200
+    },
+    {
+      "path": "sled/22/index.html",
+      "bytes": 11391,
+      "sha256": "c4a2f9911c713204c08860accb09ba3924af652c283c29ecef8ae7a1fe63c469",
+      "route": "/sled/22/",
+      "status": 200
+    },
+    {
+      "path": "sled/23/index.html",
+      "bytes": 11650,
+      "sha256": "7bab4603d78ecc9d8a5e8cb3c95a0c1ac44b67ab21cdcbc972e33a32c83f3dc5",
+      "route": "/sled/23/",
+      "status": 200
+    },
+    {
+      "path": "sled/3/index.html",
+      "bytes": 11468,
+      "sha256": "4116f12db279f89e72223b164bb8972894f6ac39135d344a93524f7c0d0ec4ea",
+      "route": "/sled/3/",
+      "status": 200
+    },
+    {
+      "path": "sled/4/index.html",
+      "bytes": 11567,
+      "sha256": "b78bd5dbeb72acbfd387c0c89998afb753257b44ba1bc26275ef541c0046d08f",
+      "route": "/sled/4/",
+      "status": 200
+    },
+    {
+      "path": "sled/5/index.html",
+      "bytes": 11172,
+      "sha256": "b7b8fefc2a631f90e8cba8a5390e924a9e1f451453882543d0d74311ed082b10",
+      "route": "/sled/5/",
+      "status": 200
+    },
+    {
+      "path": "sled/6/index.html",
+      "bytes": 11221,
+      "sha256": "df5ab92ffd253cb9f3d5b9765ae649c26edde4ed3d271696a6f4a6a4d13f6b62",
+      "route": "/sled/6/",
+      "status": 200
+    },
+    {
+      "path": "sled/7/index.html",
+      "bytes": 11765,
+      "sha256": "55fbd722f663120bca456b2afbbf84cd37c81e6fe6493774b557d5b32dc4231c",
+      "route": "/sled/7/",
+      "status": 200
+    },
+    {
+      "path": "sled/8/index.html",
+      "bytes": 11388,
+      "sha256": "e90000dce53785f20997e62d5f8fde3edbf2ffaa7953185d8d11a6c3962748a5",
+      "route": "/sled/8/",
+      "status": 200
+    },
+    {
+      "path": "sled/9/index.html",
+      "bytes": 11539,
+      "sha256": "695100520c08236ebe7e760df9b23491c32a3adaedfa8db6453107543eaa5f0e",
+      "route": "/sled/9/",
+      "status": 200
+    },
+    {
+      "path": "terms/index.html",
+      "bytes": 7498,
+      "sha256": "cb927d54ca714af86a000526c65dc05a7b7dab3f3e3a4fb3cb823d15d8462333",
+      "route": "/terms/",
+      "status": 200
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sledspec.com/sitemap.xml
